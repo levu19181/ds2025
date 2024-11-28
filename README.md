@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Ha Trung
-* Student ID: 22BI13436
+* Student Name: Phạm Lê Vũ
+* Student ID: 22BI13480
 * Student Group ID: Not-for-now
